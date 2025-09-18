@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#this is comment cannot be exceuted 
+echo "Hello world!"
